@@ -1,0 +1,26 @@
+00bfff
+f82249
+css : 472 background: url(../img/rcpit-college-building.jpg) top center;
+
+css : 518 
+#intro h2 {
+  color: #fff;
+  font-family: "Raleway", sans-serif;
+  font-size: 35px;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+index : 73 intro section
+
+ <section id="intro">
+    <div class="intro-container wow fadeIn">
+      <h1 class="mb-4 pb-0">Converges <span>2k23</span><br>
+      </h1>
+      <h2>The Convergence of Knowledge</h2>
+      <p class="mb-4 pb-0">25th February, R. C. Patel Institute of Technology, Shirpur</p>
+      <a href="https://www.youtube.com/watch?v=jDDaplaOz7Q" class="venobox play-btn mb-4" data-vbtype="video"
+        data-autoplay="true"></a>
+      <a href="#about" class="about-btn scrollto">Register Here</a>
+    </div>
+  </section>
